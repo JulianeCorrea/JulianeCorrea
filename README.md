@@ -6,7 +6,7 @@
 <h1 align="center">🌙 Bem-vinda ao meu Universo Mágico 🌙</h1>
 
 <p align="center">
-  <em>Estudante de Ciência da Computação | Front-end | Mãe | Apaixonada por Plantas, Gatos e o Mundo Místico</em>
+  <em>Estudante de Ciência da Computação | Front-end | Mãe | Apaixonada por plantas, gatos e o mundo místico</em>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>👩‍💻</td>
-    <td>Sou uma estudante de Ciência da Computação explorando o mundo do front-end. Tenho paixão por criar experiências mágicas e encantadoras na web.</td>
+    <td>Sou estudante de Ciência da Computação explorando o mundo do front-end. Tenho paixão por criar experiências mágicas e encantadoras na web.</td>
   </tr>
   <tr>
     <td>🌿</td>
@@ -62,7 +62,7 @@
 <!-- Seção de Projetos com links e descrições breves -->
 ## 🌌 Projetos & Contribuições
 
-- 🕸️ **[Projeto 1: Portfólio Místico](#)** - Um portfólio front-end com elementos místicos e designs inspirados na natureza.
+- 🕸️ **[Gerador de feitiços](#)** - Um gerador de feitiços aleatório.
 - 🪄 **[Projeto 2: Tamagotchi com Alma](#)** - Uma aplicação Python que traz o espírito dos Tamagotchis com um toque mágico.
 
 ---
@@ -82,10 +82,7 @@
 ---
 
 <p align="center">
-  ✨ _"A magia é apenas ciência que ainda não compreendemos."_ ✨
+  ✨ _"A magia é apenas a ciência que ainda não compreendemos."_ ✨
 </p>
 
-<!-- Rodapé com uma imagem de plantas ou elementos místicos -->
-<p align="center">
-  <img src="https://i.imgur.com/YyLukYW.png" alt="Plantas e Gatos" style="width: 60%; border-radius: 10px;" />
-</p>
+
