@@ -1,67 +1,51 @@
 
 
-<h1 align="center">🌿 Saudação, Viajante do Código! 🌿</h1>
+<h1 align="center">🌿 Hi, everyone!🌿</h1>
 
 <p align="center">
-  Bem-vindo(a) ao meu santuário digital. Aqui, linhas de código se entrelaçam com a magia antiga, e a inovação floresce como as árvores sagradas.
-</p>
+
 
 ---
 
-### ✨ Sobre Mim
+### ✨ About me
+I'm Juliane, a technology student majoring in Computer Science, with an interest in cybersecurity.
 
-Sou Juliane, estudante de tecnologia, graduando Ciência da Computação, com interesse por segurança cibernética.
 
-- 🌳 **Minhas Raízes:** Quaraí- Rio Grande do Sul- Brasil.
-- 🌙 **Busco:** Busco por cinhecimento e oportunidades de atuação.
+- 🌳 **My roots:** Quaraí- Rio Grande do Sul- Brasil.
+- 🌙 **What I'm Looking For:** I'm looking for knowledge and career opportunities.
 
 ---
 
-### 🛠️ Ferramentas e Magias
+### 🛠️ Tools and Magic
 
-Estas são as ferramentas que me auxiliam na minha jornada:
+These are the tools that help me on my journey:
 
-**Linguagens:**
+**Languages:**
 `[Python]` `[Java]` `[SQL]` `[Bash]` 
 
-**Frameworks & Bibliotecas:**
+**Frameworks & Libraries:**
 `[Metasploit]` `[Nmap]` `[Jhon the Riper]` 
 
-**Bancos de Dados:**
+**Databases:**
  `[SQLite]`
 
-**Ferramentas & Outros:**
+**Tools & Others**
 `[Git]` `[Kali Linux]` `[VirtualBox/VMware]` `[VS Code]` 
 
-**Plataformas de Treinamento:**
+**Training Platforms**
 `[TryHackMe]` `[OverTheWire]` 
 
 ---
 
-### 🌟 Meus Encantamentos (Projetos em Destaque)
 
-Aqui você encontrará alguns dos meus trabalhos mais significativos, onde a lógica e a intuição se encontram.
+### 🌌 Connect With Me
 
-* **[Nome do Projeto 1]** - [Breve descrição do projeto e o que ele faz. Link para o repositório se quiser.]
-* **[Nome do Projeto 2]** - [Breve descrição do projeto e o que ele faz. Link para o repositório se quiser.]
-* **[Nome do Projeto 3]** - [Breve descrição do projeto e o que ele faz. Link para o repositório se quiser.]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliane-correa-41381228b/])
 
----
-
-### 🌌 Conecte-se Comigo
-
-Se você é um(a) espírito afim ou tem um projeto que ressoa com a minha energia, sinta-se à vontade para se conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([Seu Link do LinkedIn])
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)]([Seu Link do GitHub])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([Seu Link do Twitter])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Seu Email])
 
 ---
 
 <p align="center">
-  <i>"A sabedoria está nas raízes, a inovação nos galhos."</i>
+  <i>"The foot feels the foot when it feels the ground."</i>
 </p>
-<p align="center">
-  Feito com 💖 e um toque de magia ancestral.
-</p>
+
